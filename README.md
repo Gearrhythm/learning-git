@@ -1,2 +1,2 @@
-# learning-git
+# Learning Git
 A Repo for Learning GItHub
